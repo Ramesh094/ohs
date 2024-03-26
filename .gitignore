@@ -1,0 +1,7 @@
+# to ignore venv folder
+hms_env/
+
+# to add remaining files
+!*/
+
+!requirements.txt
